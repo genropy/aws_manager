@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GenRoBag><title>Sync instances</title>
+<batch_id>sync_ec2_instances_IaC_99ghOKK9L42EcAajtw</batch_id>
+<owner_page_id>RLPYAeVyN1qFzXXX6D2fKw</owner_page_id>
+<note _T="NN"></note>
+<start_ts _T="DH">2018-06-29T14:35:40.252524+02:00</start_ts>
+<end_ts _T="DH">2018-06-29T14:35:40.724843+02:00</end_ts>
+<time_delta>0:00:00</time_delta>
+<result>Execution completed</result></GenRoBag>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<GenRoBag>
+	<wsgi mainpackage="aws"/>
+
+	<connection_timeout/>
+
+	<connection_refresh/>
+	 <services>
+     <aws_softwell resource='aws' service_type='aws'/>
+    </services>
+	<dojo version="11"/>
+</GenRoBag>
